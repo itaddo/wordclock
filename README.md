@@ -8,7 +8,7 @@ Scaled the original 3D-prints to ~7,8cm to fit the NeoPixel Matrix. Applied the 
 
 Works with Arduino Nano, requires RTC DS3231, uses NeoPixel 8x8 RGBLED Matrix to display time
 
-![wordclock front](/master/images/wordclock_front.jpg)
+![wordclock front](https://raw.githubusercontent.com/itaddo/wordclock/master/images/wordclock_front.jpg)
 ![wordclock back](https://raw.githubusercontent.com/itaddo/wordclock/master/images/wordclock_back.jpg)
 
 RTC SDA -> Arduino A4
